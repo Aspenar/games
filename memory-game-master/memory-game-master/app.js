@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: 'pizza',
-      img: 'images/pizza.png'
+      img: 'images/My Car.png'
     },
     {
       name: 'milkshake',
